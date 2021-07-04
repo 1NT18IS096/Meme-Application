@@ -67,18 +67,18 @@ const swaggerOptions = {
     definition: {
         openapi: '3.0.3',
         info: {
-            title: 'XMeme',
+            title: 'Meme',
             version: '1.0.0',
             description: 'Simple CRUD application',
             'contact': {
-                'name': 'Manthan Gupta',
-                'email': 'manthangupta109@gmail.com'
+                'name': 'Kaif and Raghu',
+                'email': ''
             },
         },
         servers: [{
             url: "http://localhost:8081"
         }, {
-            url: "https://damp-river-68338.herokuapp.com/"
+            url: ""
         }]
     },
     apis: ['./routes/*.js']
