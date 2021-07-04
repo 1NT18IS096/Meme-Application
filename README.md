@@ -63,4 +63,4 @@ Added page navigation to navigate between 2 different screens
 URL validation added
 
 
-localhost:8081 is used for main application and localhost:8080 for swagger api documentation
+localhost:8081 is used for main application and localhost:8080 
