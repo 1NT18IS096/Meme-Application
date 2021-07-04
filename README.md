@@ -1,9 +1,4 @@
-# XMeme
 
-> XMeme is a simple CRUD application which allows the user to share memes with everyone that they find funny.
-
-
-![Xmeme (1) (2)](https://user-images.githubusercontent.com/42516515/107529832-4d157e80-6be1-11eb-9cf3-2f96e6db9477.gif)
 
 ## Folder Structure
     .
@@ -50,10 +45,6 @@ chmod +x test_server.sh
 
 MongoDB used as Database.
 
-## Deployment
-
-Heroku
-https://damp-river-68338.herokuapp.com/
 
 ## Features
 
